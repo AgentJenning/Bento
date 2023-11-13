@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'http://deloachmedia.com:8080/',
 				},
 				{
-					name: 'Sunshine',
-					link: 'https://192.168.86.69:47990/',
+					name: 'Pi-Hole',
+					link: 'http://deloachmedia.com/admin/login.php',
 				},
 			],
 		},
@@ -173,9 +173,10 @@ const CONFIG = {
 					link: 'http://deloachmedia.com:8989/',
 				},
 				{
-					name: 'Pi-Hole',
-					link: 'http://deloachmedia.com/admin/login.php',
+					name: 'Sunshine',
+					link: 'https://192.168.86.69:47990/',
 				},
+
 			],
 		},
 	],
