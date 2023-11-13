@@ -47,7 +47,7 @@ const CONFIG = {
 	hourDarkThemeInactive: '07:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
-	// ├┴┐│ │ │  │ │ ││││└─┐
+	// ├┴┐│ │ │  │ │ ││││└─┐TT
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
